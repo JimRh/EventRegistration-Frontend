@@ -1,6 +1,6 @@
 
 
-npm i
+npm i -f
 
 npm start
 
